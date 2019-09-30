@@ -1,1 +1,1 @@
-# Lab2019
+# Modelowanie Statystyczne w Zarządzaniu Wierzytelnościami Masowymi
