@@ -5,4 +5,7 @@
  - [Lista](ListyZadan/01_ListaWprowadzenie.md)
  - [Rozwiązania](ListyZadan/01_ListaRozwiazania.R)
  
+## Laboratorium 2
+ 
+ - [Lista](ListyZadan/02_ListaEksploracjaDanych.md)
  
