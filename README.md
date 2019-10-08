@@ -9,3 +9,6 @@
  
  - [Lista](ListyZadan/02_ListaEksploracjaDanych.md)
  
+## Laboratorium 3
+
+ - [Lista](ListyZadan/03_ListaAnalizaSkupien.md)
