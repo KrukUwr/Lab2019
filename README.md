@@ -2,5 +2,5 @@
 
 ## Laboratorium 1
 
- - [Lista](ListyZadan/01_Wprowadzenie.md)
+ - [Lista](ListyZadan/01_ListaWprowadzenie.md)
  - [Rozwiązania](coming soon)
