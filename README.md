@@ -3,4 +3,6 @@
 ## Laboratorium 1
 
  - [Lista](ListyZadan/01_ListaWprowadzenie.md)
- - [Rozwiązania](coming soon)
+ - [Rozwiązania](ListyZadan/01_ListaRozwiazania.R)
+ 
+ 
