@@ -1,6 +1,8 @@
 # Modelowanie Statystyczne w Zarządzaniu Wierzytelnościami Masowymi
-<br>
 ---
+
+<br>
+
 ## Warunki zaliczenia laboratorium:
 
 1) Uzyskanie co najmniej 2 'plusów' na zajęciach.
