@@ -19,6 +19,7 @@
 >- Do 20.11.19 grupy projektowe mogą zgłaszać własne propozycje tematów (wraz z tematem 'rezerwowym' z listy prowadzących na wypadek braku akcpetacji tematu zaproponowanego).
 >- Do 27.11.19 prowadzący podejmą decyzję o akcpeptacji zaproponowanych tematów.
 
+---
 
 ## Laboratorium 1
 
