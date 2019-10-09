@@ -8,27 +8,27 @@
 ### Projekt zaliczeniowy
 
 #### Zasady
-- Projekt zaliczeniowy będzie polegać na wykonaniu analizy wybranego problemu biznesowego.
-- Problem do rozwiązania może być wybrany spośród zaproponowanych przez prowadzących lub zgłoszony przez grupę projektową (wymagana akceptacja prowadzących).
-- Grupy projektowe będą liczyć 2-3 osoby.
-- Czas przeznaczony na zaprezentowanie projektu będzie wynosić maksymalnie 15 minut.
+>- Projekt zaliczeniowy będzie polegać na wykonaniu analizy wybranego problemu biznesowego.
+>- Problem do rozwiązania może być wybrany spośród zaproponowanych przez prowadzących lub zgłoszony przez grupę projektową (wymagana akceptacja prowadzących).
+>- Grupy projektowe będą liczyć 2-3 osoby.
+>- Czas przeznaczony na zaprezentowanie projektu będzie wynosić maksymalnie 15 minut.
 
 #### Harmonogram
 
-- Do 30.10.19 prowadzący zaproponują tematy projektów,
-- Do 20.11.19 grupy projektowe mogą zgłaszać własne propozycje tematów (wraz z tematem 'rezerwowym' z listy prowadzących na wypadek braku akcpetacji tematu zaproponowanego).
-- Do 27.11.19 prowadzący podejmą decyzję o akcpeptacji zaproponowanych tematów.
+>- Do 30.10.19 prowadzący zaproponują tematy projektów,
+>- Do 20.11.19 grupy projektowe mogą zgłaszać własne propozycje tematów (wraz z tematem 'rezerwowym' z listy prowadzących na wypadek braku akcpetacji tematu zaproponowanego).
+>- Do 27.11.19 prowadzący podejmą decyzję o akcpeptacji zaproponowanych tematów.
 
 
-> ## Laboratorium 1
->
->- [Lista](ListyZadan/01_ListaWprowadzenie.md)
->- [Rozwiązania](ListyZadan/01_ListaRozwiazania.R)
+## Laboratorium 1
+
+- [Lista](ListyZadan/01_ListaWprowadzenie.md)
+- [Rozwiązania](ListyZadan/01_ListaRozwiazania.R)
  
-> ## Laboratorium 2
+## Laboratorium 2
  
  - [Lista](ListyZadan/02_ListaEksploracjaDanych.md)
  
-> ## Laboratorium 3
+## Laboratorium 3
 
  - [Lista](ListyZadan/03_ListaAnalizaSkupien.md)
