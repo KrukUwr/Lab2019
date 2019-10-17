@@ -12,8 +12,7 @@ Sprawdź oszacowanie treningowego błędu prognozy (zbiór uczący to jednocześ
 
 *	Wykorzystaj funkcję `knn.reg` z pakietu `FNN`.
 *	Sprawdź dla liczb najbliższych sąsiadów od 1 do 30 oraz dla wąskiego oraz szerokiego zbioru cech objaśniających.
-*	W tym i kolejnych zadaniach jako funkcję straty przyjmij funkcję kwadratową:
-$$L(Y,\hat{f}(X))=(Y-\hat{f}(X))^2$$
+*	W tym i kolejnych zadaniach jako funkcję straty przyjmij funkcję kwadratową.
 *	Jakie są problemy związane z bezpośrednim prognozowaniem skuteczności?
 *	Jaka jest optymalna liczba cech objaśniających oraz liczba najbliższych sąsiadów?
 
