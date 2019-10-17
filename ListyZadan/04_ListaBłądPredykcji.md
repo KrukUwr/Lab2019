@@ -1,38 +1,39 @@
 
-# Metody Statystyczne w Zarz¹dzaniu Wierzytelnoœciami Masowymi
+# Metody Statystyczne w ZarzÄ…dzaniu WierzytelnoÅ›ciami Masowymi
 # Laboratorium 4
 
 ## Zadanie 1
 
-Przygotuj dane aplikacyjne jak w Liœcie 3.
+Przygotuj dane aplikacyjne jak w LiÅ›cie 3.
 
 ## Zadanie 2
 
-SprawdŸ oszacowanie treningowego b³êdu prognozy (zbiór ucz¹cy to jednoczeœnie zbiór testowy) regresyjnego modelu k-najbli¿szych s¹siadów prognozuj¹cego 6-cio miesiêczn¹ skutecznoœæ za pomoc¹ cech aplikacyjnych:
+SprawdÅº oszacowanie treningowego bÅ‚Ä™du prognozy (zbiÃ³r uczÄ…cy to jednoczeÅ›nie zbiÃ³r testowy) regresyjnego modelu k-najbliÅ¼szych sÄ…siadÃ³w prognozujÄ…cego 6-cio miesiÄ™cznÄ… skutecznoÅ›Ä‡ za pomocÄ… cech aplikacyjnych:
 
-*	Wykorzystaj funkcjê `knn.reg` z pakietu `FNN`.
-*	SprawdŸ dla liczb najbli¿szych s¹siadów od 1 do 30 oraz dla w¹skiego oraz szerokiego zbioru cech objaœniaj¹cych.
-*	W tym i kolejnych zadaniach jako funkcjê straty przyjmij funkcjê kwadratow¹: $$L(Y,\hat{f}(X))=(Y-\hat{f}(X))^2$$
-*	Jakie s¹ problemy zwi¹zane z bezpoœrednim prognozowaniem skutecznoœci?
-*	Jaka jest optymalna liczba cech objaœniaj¹cych oraz liczba najbli¿szych s¹siadów?
+*	Wykorzystaj funkcjÄ™ `knn.reg` z pakietu `FNN`.
+*	SprawdÅº dla liczb najbliÅ¼szych sÄ…siadÃ³w od 1 do 30 oraz dla wÄ…skiego oraz szerokiego zbioru cech objaÅ›niajÄ…cych.
+*	W tym i kolejnych zadaniach jako funkcjÄ™ straty przyjmij funkcjÄ™ kwadratowÄ…:
+$$L(Y,\hat{f}(X))=(Y-\hat{f}(X))^2$$
+*	Jakie sÄ… problemy zwiÄ…zane z bezpoÅ›rednim prognozowaniem skutecznoÅ›ci?
+*	Jaka jest optymalna liczba cech objaÅ›niajÄ…cych oraz liczba najbliÅ¼szych sÄ…siadÃ³w?
 
 ## Zadanie 3
 
-SprawdŸ oszacowanie testowego b³êdu prognozy regresyjnego modelu k-najbli¿szych s¹siadów prognozuj¹cego 6-cio miesiêczn¹ skutecznoœæ za pomoc¹ cech aplikacyjnych.
+SprawdÅº oszacowanie testowego bÅ‚Ä™du prognozy regresyjnego modelu k-najbliÅ¼szych sÄ…siadÃ³w prognozujÄ…cego 6-cio miesiÄ™cznÄ… skutecznoÅ›Ä‡ za pomocÄ… cech aplikacyjnych.
 
-*	Wykorzystaj próbê treningow¹, walidacyjn¹ oraz testow¹ w proporcjach 50%, 25%, 25%.
-*	Za³ó¿ sta³y zbiór cech objaœniaj¹cych wybrany w poprzednim zadaniu.
-*	Jak zachowuje siê oszacowanie b³êdu testowego w zale¿noœci od liczby najbli¿szych s¹siadów?
-*	Jaka jest optymalna liczba najbli¿szych s¹siadów i zwi¹zane z ni¹ oszacowanie testowego b³êdu prognozy?
+*	Wykorzystaj prÃ³bÄ™ treningowÄ…, walidacyjnÄ… oraz testowÄ… w proporcjach 50%, 25%, 25%.
+*	ZaÅ‚Ã³Å¼ staÅ‚y zbiÃ³r cech objaÅ›niajÄ…cych wybrany w poprzednim zadaniu.
+*	Jak zachowuje siÄ™ oszacowanie bÅ‚Ä™du testowego w zaleÅ¼noÅ›ci od liczby najbliÅ¼szych sÄ…siadÃ³w?
+*	Jaka jest optymalna liczba najbliÅ¼szych sÄ…siadÃ³w i zwiÄ…zane z niÄ… oszacowanie testowego bÅ‚Ä™du prognozy?
 
 ## Zadanie 4
 
-SprawdŸ oszacowanie testowego b³êdu prognozy regresyjnego modelu k-najbli¿szych s¹siadów prognozuj¹cego 6-cio miesiêczn¹ skutecznoœæ za pomoc¹ cech aplikacyjnych wykorzystuj¹c 5 i 10-krotn¹ kroswalidacjê. SprawdŸ dla liczb najbli¿szych s¹siadów od 1 do 30 oraz porównaj z wynikami z poprzednich punktów.
+SprawdÅº oszacowanie testowego bÅ‚Ä™du prognozy regresyjnego modelu k-najbliÅ¼szych sÄ…siadÃ³w prognozujÄ…cego 6-cio miesiÄ™cznÄ… skutecznoÅ›Ä‡ za pomocÄ… cech aplikacyjnych wykorzystujÄ…c 5 i 10-krotnÄ… kroswalidacjÄ™. SprawdÅº dla liczb najbliÅ¼szych sÄ…siadÃ³w od 1 do 30 oraz porÃ³wnaj z wynikami z poprzednich punktÃ³w.
 
 ## Zadanie 5
 
-SprawdŸ oszacowanie testowego b³êdu prognozy regresyjnego modelu k-najbli¿szych s¹siadów prognozuj¹cego 6-cio miesiêczn¹ skutecznoœæ za pomoc¹ cech aplikacyjnych wykorzystuj¹c metodê bootstrap oraz leave one-out bootstrap dla optymalnej liczby najbli¿szych s¹siadów wybranej w poprzednim punkcie. 
+SprawdÅº oszacowanie testowego bÅ‚Ä™du prognozy regresyjnego modelu k-najbliÅ¼szych sÄ…siadÃ³w prognozujÄ…cego 6-cio miesiÄ™cznÄ… skutecznoÅ›Ä‡ za pomocÄ… cech aplikacyjnych wykorzystujÄ…c metodÄ™ bootstrap oraz leave one-out bootstrap dla optymalnej liczby najbliÅ¼szych sÄ…siadÃ³w wybranej w poprzednim punkcie. 
 
 ## Zadanie 6
 
-Zbierz oraz porównaj wyniki uzyskane w punktach 2-5.
+Zbierz oraz porÃ³wnaj wyniki uzyskane w punktach 2-5.
