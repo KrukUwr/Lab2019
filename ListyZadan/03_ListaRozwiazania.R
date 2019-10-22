@@ -1,5 +1,4 @@
 
-setwd("//Orion/publiki3/DK2/PM/@ Kurs UWr/2019/Lab3")
 load("KrukUWr2019.RData")
 library(data.table)
 
@@ -293,7 +292,7 @@ for (k in seq(from=1, to=30, by=5)) {
 }
 
 
-##### Sprawdzenie wystêpowania spraw z jednakowym TOA oraz M_LastPaymentToImportDate
+##### Sprawdzenie wystÃªpowania spraw z jednakowym TOA oraz M_LastPaymentToImportDate
 
 #K ClassSuccess
 #1:  1    0.9963149
@@ -339,7 +338,7 @@ som_grid <- somgrid(xdim = 30, ydim=30, topo="hexagonal")
 som_model <- som(data_train_matrix, 
     grid=som_grid, 
     rlen=500, # odpowiednik liczby epok z tradycyjnych sieci neuronowych
-    alpha=c(0.05,0.01), #stop szybkoœci uczenia siê - learning rate
+    alpha=c(0.05,0.01), #stop szybkoÂœci uczenia siÃª - learning rate
     keep.data = TRUE )
 
 
