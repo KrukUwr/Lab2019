@@ -4,7 +4,7 @@
 
 ## Zadanie 1
 
-Przygotuj dane aplikacyjne jak w Liście 3.
+Przygotuj dane aplikacyjne jak na Liście 3.
 
 ## Zadanie 2
 
