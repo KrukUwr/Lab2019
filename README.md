@@ -47,4 +47,4 @@
  
 ## Laboratorium 5
 
- - konsultacje/umówienie tematów projektów
+ - konsultacje/omówienie tematów projektów
