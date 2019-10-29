@@ -42,4 +42,5 @@
 ## Laboratorium 4
 
  - [Lista](ListyZadan/04_ListaBłądPredykcji.md)
+ - [Prezentacja](ListyZadan/04_PrezentacjaBłądPredykcji.pdf)
 
