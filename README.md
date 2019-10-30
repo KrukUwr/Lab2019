@@ -25,6 +25,10 @@
 
 <br>
 
+## Tematy projektów zaliczeniowych
+
+- [Lista](ListyZadan/tematyProjektow.md)
+
 ## Laboratorium 1
 
 - [Lista](ListyZadan/01_ListaWprowadzenie.md)
