@@ -1,6 +1,6 @@
 ## Tematy projektów zaliczeniowych
   
----  
+  
   
 1. Uszereguj dostępny zbiór spraw, które Twoim zdaniem będą najlepiej rokować w procesie obsługi przez pierwszych 6 miesięcy obsługi. 
 
