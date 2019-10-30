@@ -27,7 +27,7 @@
 
 ## Tematy projektów zaliczeniowych
 
-- [Lista](ListyZadan/tematyProjektow.md)
+- [Lista tematów](ListyZadan/tematyProjektow.md)
 
 ## Laboratorium 1
 
