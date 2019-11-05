@@ -22,9 +22,9 @@
 
 ---
 
-6. Na podstawie otrzymanych danych aplikacyjnych oceń, które z podejść pozwala na dokładniejszą prognozę odzysków całkowitych, przedugodowych oraz ugodowych (przyjmujemy, że odzyski ugodowe to odzyski od miesiąca podpisania pierwszej ugody w sprawie) portfela w pierwszych 12 miesiącach obsługi:  
+6. Na podstawie otrzymanych danych aplikacyjnych oceń, które z podejść pozwala na dokładniejszą prognozę odzysków całkowitych  portfela w pierwszych 12 miesiącach obsługi (przyjmujemy, że odzyski ugodowe to odzyski od miesiąca podpisania pierwszej ugody w sprawie):  
    * Odrębna prognoza odzysków przedugodowych i ugodowych. 
-   * Prognoza ogólnych odzysków i dekompozycja za pomocą odrębnego modelu. 
+   * Prognoza ogólnych odzysków. 
 
 ---
 
