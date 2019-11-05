@@ -16,13 +16,13 @@
 
 ---
 
-5. Na podstawie otrzymanych danych oraz na podstawie cech aplikacyjnych opisujących sprawy, oszacuj potrzebną liczbę pracowników potrzebnych do obsługi zakupionego portfela:  
+5. Na podstawie otrzymanych danych oraz na podstawie cech aplikacyjnych opisujących sprawy, oszacuj potrzebną liczbę pracowników do obsługi zakupionego portfela:  
    * Contact Center (przy założeniu, że jeden pracownik Contact Center jest w stanie średnio wykonać 100 telefonów dziennie), 
    * Doradców Terenowych (przy założeniu, że jeden Doradca Terenowy jest w stanie średnio wykonać 13 wizyt dziennie). 
 
 ---
 
-6. Na podstawie otrzymanych danych aplikacyjnych oceń, które z podejść pozwala na dokładniejszą prognozę odzysków całkowitych  portfela w pierwszych 12 miesiącach obsługi (przyjmujemy, że odzyski ugodowe to odzyski od miesiąca podpisania pierwszej ugody w sprawie):  
+6. Na podstawie otrzymanych danych aplikacyjnych oceń, które z podejść pozwala na dokładniejszą prognozę odzysków polubownych portfela w pierwszych 12 miesiącach obsługi (przyjmujemy, że odzyski ugodowe to odzyski od miesiąca podpisania pierwszej ugody w sprawie):  
    * Odrębna prognoza odzysków przedugodowych i ugodowych. 
    * Prognoza ogólnych odzysków. 
 
