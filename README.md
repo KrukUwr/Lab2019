@@ -20,10 +20,14 @@
 >- **05.11.19** Laboratoria- konsultacje, omównienie zaproponowanych tematów.
 >- Do **20.11.19** grupy projektowe mogą zgłaszać własne propozycje tematów (wraz z tematem 'rezerwowym' z listy prowadzących na wypadek braku akcpetacji tematu zaproponowanego).
 >- Do **27.11.19** prowadzący podejmą decyzję o akcpeptacji zaproponowanych tematów.
->- **28.01.20** Laboratoria- konultacje.
+>- **28.01.20** Laboratoria- konsultacje.
 >- **29.01.20, 04.02.20** - Prezentacje projektów.
 
 <br>
+
+## Tematy projektów zaliczeniowych
+
+- [Lista tematów](ListyZadan/tematyProjektów.md)
 
 ## Laboratorium 1
 
@@ -37,3 +41,14 @@
 ## Laboratorium 3
 
  - [Lista](ListyZadan/03_ListaAnalizaSkupien.md)
+ - [Rozwiązania](ListyZadan/03_ListaRozwiazania.R)
+ 
+## Laboratorium 4
+
+ - [Lista](ListyZadan/04_ListaBłądPredykcji.md)
+ - [Prezentacja](ListyZadan/04_PrezentacjaBłądPredykcji.pdf)
+ - [Rozwiązania](ListyZadan/04_ListaRozwiazania.R)
+ 
+## Laboratorium 5
+
+ - konsultacje/omówienie tematów projektów
