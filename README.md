@@ -53,3 +53,7 @@
 ## Laboratorium 5
 
  - konsultacje/omówienie tematów projektów
+ 
+ ## Laboratorium 6
+ 
+ - [Lista](ListyZadan/06_ListaDrzewaLasy.md)
