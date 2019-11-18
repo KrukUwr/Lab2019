@@ -1,5 +1,5 @@
 
-# Metody Statystyczne w Zarz¹dzaniu Wierzytelnoœciami Masowymi
+# Metody Statystyczne w ZarzÄ…dzaniu WierzytelnoÅ›ciami Masowymi
 # Laboratorium 8
 
 ## Zadanie 1
@@ -8,45 +8,45 @@ Przygotuj dane aplikacyjne do analizy eksploracyjnej oraz wytypuj cechy do anali
 
 ## Zadanie 2
 
-Do zbioru cech aplikacyjnych dodaj cechê wydzielaj¹c¹ klientów, którzy dokonali przynajmniej 3 wp³at lub przekroczyli skutecznoœæ 0.5% w pierwszych 6 miesi¹cach obs³ugi (klienci dobrzy).
+Do zbioru cech aplikacyjnych dodaj cechÄ™ wydzielajÄ…cÄ… klientÃ³w, ktÃ³rzy dokonali przynajmniej 3 wpÅ‚at lub przekroczyli skutecznoÅ›Ä‡ 0.5% w pierwszych 6 miesiÄ…cach obsÅ‚ugi (klienci dobrzy).
 
 ## Zadanie 3
 
-Stwórz i dokonaj analizy wykresów uzyskanych za pomoc¹ funkcji `corrgram` oraz `corrplot` – czy widzisz grupy zmiennych powielaj¹cych informacjê?
+StwÃ³rz i dokonaj analizy wykresÃ³w uzyskanych za pomocÄ… funkcji `corrgram` oraz `corrplot` â€“ czy widzisz grupy zmiennych powielajÄ…cych informacjÄ™?
 
 ## Zadanie 4
 
-Stwórz tabelê zawieraj¹c¹ wspó³czynnik **VIF** dla ka¿dej ze zmiennych – dokonaj korekty listy potencjalnych zmiennych objaœniaj¹cych i przelicz tabelê **VIF**.
+StwÃ³rz tabelÄ™ zawierajÄ…cÄ… wspÃ³Å‚czynnik **VIF** dla kaÅ¼dej ze zmiennych â€“ dokonaj korekty listy potencjalnych zmiennych objaÅ›niajÄ…cych i przelicz tabelÄ™ **VIF**.
 
 
 ## Rozgrzewka
 
-Wygeneruj losowy zbiór obserwacji z dwuwymiarowego rozk³adu normalnego, a nastêpnie:
+Wygeneruj losowy zbiÃ³r obserwacji z dwuwymiarowego rozkÅ‚adu normalnego, a nastÄ™pnie:
 
-*	Zdekomponuj zbiór danych na czynniki obliczaj¹c wektory w³asne macierzy kowariancji lub korelacji.
-*	Zaprezentuj wylosowane dane na wykresie i zaznacz kierunki g³ówne wskazywane przez wektory w³asne.
+*	Zdekomponuj zbiÃ³r danych na czynniki obliczajÄ…c wektory wÅ‚asne macierzy kowariancji lub korelacji.
+*	Zaprezentuj wylosowane dane na wykresie i zaznacz kierunki gÅ‚Ã³wne wskazywane przez wektory wÅ‚asne.
 
 ## Zadanie 6
 
-Zestandaryzuj cechy objaœniaj¹ce. Dlaczego jest to wa¿ne w kontekœcie **PCA**?
+Zestandaryzuj cechy objaÅ›niajÄ…ce. Dlaczego jest to waÅ¼ne w kontekÅ›cie **PCA**?
 
 ## Zadanie 7
 
-Oblicz wartoœci w³asne oraz wyznacz wektory w³asne macierzy korelacji za pomoc¹ funkcji `eigen` lub `prcomp`, a nastêpnie:
+Oblicz wartoÅ›ci wÅ‚asne oraz wyznacz wektory wÅ‚asne macierzy korelacji za pomocÄ… funkcji `eigen` lub `prcomp`, a nastÄ™pnie:
 
-* Oblicz wspó³rzêdne danych w przestrzeni g³ównych sk³adowych.
-* Stwórz oraz zinterpretuj wykres przedstawiaj¹cy udzia³ wariancji ca³kowitej wyjaœnianej przez poszczególne g³ówne sk³adowe.
-* Oblicz macierz korelacji oryginalnych zestandaryzowanych danych z g³ównymi sk³adowymi – czy cechy najsilniej skorelowane z dobroci¹ klienta s¹ silnie skorelowane z pierwszymi g³ównymi sk³adowymi?
-* Zaznacz na wykresie cechy objaœniaj¹ce w przestrzeni korelacji cech z dwiema pierwszymi g³ównymi sk³adowymi.
-* Zinterpretuj wybran¹ g³ówn¹ sk³adow¹.
+* Oblicz wspÃ³Å‚rzÄ™dne danych w przestrzeni gÅ‚Ã³wnych skÅ‚adowych.
+* StwÃ³rz oraz zinterpretuj wykres przedstawiajÄ…cy udziaÅ‚ wariancji caÅ‚kowitej wyjaÅ›nianej przez poszczegÃ³lne gÅ‚Ã³wne skÅ‚adowe.
+* Oblicz macierz korelacji oryginalnych zestandaryzowanych danych z gÅ‚Ã³wnymi skÅ‚adowymi â€“ czy cechy najsilniej skorelowane z dobrociÄ… klienta sÄ… silnie skorelowane z pierwszymi gÅ‚Ã³wnymi skÅ‚adowymi?
+* Zaznacz na wykresie cechy objaÅ›niajÄ…ce w przestrzeni korelacji cech z dwiema pierwszymi gÅ‚Ã³wnymi skÅ‚adowymi.
+* Zinterpretuj wybranÄ… gÅ‚Ã³wnÄ… skÅ‚adowÄ….
 
 ## Zadanie 8
 
-Przedstaw zbiór danych na wykresach w przestrzeniach wybranych par g³ównych sk³adowych w podziale na dobroæ klienta – która para g³ównych sk³adowych wizualnienajlepiej dyskryminuje grupy?
+Przedstaw zbiÃ³r danych na wykresach w przestrzeniach wybranych par gÅ‚Ã³wnych skÅ‚adowych w podziale na dobroÄ‡ klienta â€“ ktÃ³ra para gÅ‚Ã³wnych skÅ‚adowych wizualnie najlepiej dyskryminuje grupy?
 
 ## Zadanie 9
 
-Dla ka¿dej pary g³ównych sk³adowych oblicz wybran¹ miarê si³y dyskryminacji klientów dobrych i z³ych – czy najlepsze s¹ pierwsze g³ówne sk³adowe?
+Dla kaÅ¼dej pary gÅ‚Ã³wnych skÅ‚adowych oblicz wybranÄ… miarÄ™ siÅ‚y dyskryminacji klientÃ³w dobrych i zÅ‚ych â€“ czy najlepsze sÄ… pierwsze gÅ‚Ã³wne skÅ‚adowe?
 
 
 
