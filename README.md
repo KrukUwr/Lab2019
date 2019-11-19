@@ -63,6 +63,8 @@
 
  - [Lista](ListyZadan/07_ListaOutliersAndNAs.md)
  - [Rozwiązania](ListyZadan/07_ListaRozwiazania.R)
+ 
+## Laboratorium 8
+ 
+ - [Lista](ListyZadan/08_ListaPCA.md)
 
- 
- 
