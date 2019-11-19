@@ -54,6 +54,15 @@
 
  - konsultacje/omówienie tematów projektów
  
- ## Laboratorium 6
+## Laboratorium 6
  
  - [Lista](ListyZadan/06_ListaDrzewaLasy.md)
+ - [Rozwiązania](ListyZadan/06_ListaRozwiazania.R)
+ 
+##  Laboratorium 7
+
+ - [Lista](ListyZadan/07_ListaOutliersAndNAs.md)
+ - [Rozwiązania](ListyZadan/07_ListaRozwiazania.R)
+
+ 
+ 
