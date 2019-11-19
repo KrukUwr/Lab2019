@@ -1,21 +1,6 @@
----
-title: "Modelowanie Statystyczne w Zarządzaniu Wierzytelnościami Masowymi"
-output:
-  pdf_document: default
-  html_document: default
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # Laboratorium 6
-
-## Wymagane biblioteki
-
-```{r cars}
-library(data.table)
-```
 
 ## Zadanie 1
 
