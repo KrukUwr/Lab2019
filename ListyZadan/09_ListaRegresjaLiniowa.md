@@ -57,7 +57,7 @@ Sprawdź jak obserwacje odstające wpływają na współczynniki modelu oraz na 
 
 ## Zadanie 10
 
-Czy w modelu `m1` istnieją cechy, które charakteryzują się współliniowością? Jeżeli tak jak zmieni się model i ocena jakości po ich wyeliminowaniu.
+Czy w modelu `m1` istnieją cechy, które charakteryzują się współliniowością? Jeżeli tak, to jak zmieni się model i ocena jakości po ich wyeliminowaniu.
 
 ## Zadanie 11
 
