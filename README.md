@@ -67,4 +67,5 @@
 ## Laboratorium 8
  
  - [Lista](ListyZadan/08_ListaPCA.md)
+ - [Prezentacja](ListyZadan/08_PrezentacjaPCA.pdf)
 
