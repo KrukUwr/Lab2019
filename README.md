@@ -67,4 +67,9 @@
 ## Laboratorium 8
  
  - [Lista](ListyZadan/08_ListaPCA.md)
+ - [Prezentacja](ListyZadan/08_PrezentacjaPCA.pdf)
+ - [Rozwiązania](ListyZadan/08_ListaRozwiazania.R)
 
+## Laboratorium 9
+
+ - [Lista](ListyZadan/09_ListaRegresjaLiniowa.md)
