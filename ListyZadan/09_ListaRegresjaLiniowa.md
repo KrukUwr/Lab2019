@@ -63,5 +63,5 @@ Czy w modelu `m1` istnieją cechy, które charakteryzują się współliniowośc
 
 Zaproponuj własny model regresji liniowej korzystając z wiedzy zdobytej na wykładzie (transformacje zmiennych, interakcje między cechami, dyskretyzacja cech ciągłych, itp.), który będzie cechować się lepszymi parametrami oceny jakości predykcji od wyestymowanego na ćwiczeniach.
 
-
+![](http://latex.codecogs.com/gif.latex?x_%7B1%2C2%7D+%3D+%7B-b%5Cpm%5Csqrt%7Bb%5E2+-+4ac%7D+%5Cover+2a%7D.) 
 
