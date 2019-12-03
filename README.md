@@ -73,5 +73,5 @@
 ## Laboratorium 9
 
  - [Lista](ListyZadan/09_ListaRegresjaLiniowa.md)
- - [Prezentacja](ListyZadan/08_PrezentacjaPCA.pdf)
+ - [Prezentacja]()
  - [Rozwiązania](ListyZadan/09_ListaRozwiazania.R)
