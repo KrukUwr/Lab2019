@@ -1,6 +1,4 @@
 
-setwd("//LUNA/Val/OWPW/00. Analitycy/PM/@ Kurs UWr/2019/Lab9")
-
 library(data.table)
 library(car)
 library(MASS)
