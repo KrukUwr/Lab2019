@@ -76,3 +76,7 @@
  - [Prezentacja]()
  - [Excel](ListyZadan/09_RegresjaLiniowa.xlsx)
  - [Rozwiązania](ListyZadan/09_ListaRozwiazania.R)
+ 
+ ## Laboratorium 10
+ 
+  - [Lista](ListyZadan/10_ListaDoborCech.md)
