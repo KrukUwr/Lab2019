@@ -79,4 +79,5 @@
  
  ## Laboratorium 10
  
+  - [Sieci neuronowe w H2O - dokumentacja z przykładami w R](https://www.http://docs.h2o.ai/h2o/latest-stable/h2o-docs/booklets/DeepLearningBooklet.pdf)
   - [Lista](ListyZadan/10_ListaDoborCech.md)
