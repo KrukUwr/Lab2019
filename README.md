@@ -73,7 +73,7 @@
 ## Laboratorium 9
 
  - [Lista](ListyZadan/09_ListaRegresjaLiniowa.md)
- - [Prezentacja]()
+ - [Prezentacja](ListyZadan/09_PrezentacjaRegresja.pdf)
  - [Excel](ListyZadan/09_RegresjaLiniowa.xlsx)
  - [Rozwiązania](ListyZadan/09_ListaRozwiazania.R)
  
