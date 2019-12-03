@@ -49,7 +49,7 @@ Oszacuj liniowy model regresji z regularyzacją lasso na wyjściowym zbiorze cec
 
 <br />
 <br />
-Listę zadań podsumuj wypełniając oszacowaniami parametrów tabelę cecha-sposób doboru (wszystkie cechy, najlepszy globalnie podzbiór, *ridge*, *lasso*, *forward-stepwise selection*, *backward-stepwise selection*).
+Listę zadań podsumuj wypełniając oszacowaniami parametrów tabelę cecha-sposób doboru (wszystkie cechy, najlepszy globalnie podzbiór, ridge, lasso, *forward-stepwise selection*, *backward-stepwise selection*).
 
 
 
