@@ -5,7 +5,7 @@
 ## Zadanie 1
 
 
-Przygotuj dane aplikacyjne do analizy
+Przygotuj dane aplikacyjne do analizy.
 
 ## Zadanie 2
 
