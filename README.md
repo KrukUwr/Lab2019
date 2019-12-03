@@ -74,5 +74,4 @@
 
  - [Lista](ListyZadan/09_ListaRegresjaLiniowa.md)
  - [Prezentacja]()
- - [Excel - przykład](ListyZadan/09_Regresja liniowa.xlsx)
  - [Rozwiązania](ListyZadan/09_ListaRozwiazania.R)
