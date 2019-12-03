@@ -27,7 +27,7 @@ Oszacuj liniowy model regresji grzbietowej na wyjściowym zbiorze cech objaśnia
 
 <br />
 
-![](http://latex.codecogs.com/gif.latex?%24%24%5Chat%7B%5Cbeta%7D%5E%7Bridge%7D%3D%5Ctext%7Bargmin%7D_%7B%5Calpha%7D%5Cleft%5C%7B%5Csum_%7Bi%3D1%7D%5E%7BN%7D%28y_%7Bi%7D-%5Calpha_%7B0%7D-%5Csum_%7Bj%3D1%7D%5E%7Bp%7Dx_%7Bij%7D%5Calpha_%7Bj%7D%29%5E%7B2%7D%2B%5Clambda%5Csum_%7Bj%3D1%7D%5E%7Bp%7D%5Calpha_%7Bj%7D%5E2%5Cright%5C%7D%24%24) 
+![](http://latex.codecogs.com/gif.latex?%24%24%5Chat%7B%5Calpha%7D%5E%7Bridge%7D%3D%5Ctext%7Bargmin%7D_%7B%5Calpha%7D%5Cleft%5C%7B%5Csum_%7Bi%3D1%7D%5E%7BN%7D%28y_%7Bi%7D-%5Calpha_%7B0%7D-%5Csum_%7Bj%3D1%7D%5E%7Bp%7Dx_%7Bij%7D%5Calpha_%7Bj%7D%29%5E%7B2%7D%2B%5Clambda%5Csum_%7Bj%3D1%7D%5E%7Bp%7D%5Calpha_%7Bj%7D%5E2%5Cright%5C%7D%24%24) 
 
 <br />
 
@@ -40,7 +40,7 @@ Oszacuj liniowy model regresji z regularyzacją lasso na wyjściowym zbiorze cec
 
 <br />
 
-![](http://latex.codecogs.com/gif.latex?%24%24%5Chat%7B%5Cbeta%7D%5E%7Blasso%7D%3D%5Ctext%7Bargmin%7D_%7B%5Calpha%7D%5Cleft%5C%7B%5Csum_%7Bi%3D1%7D%5E%7BN%7D%28y_%7Bi%7D-%5Calpha_%7B0%7D-%5Csum_%7Bj%3D1%7D%5E%7Bp%7Dx_%7Bij%7D%5Calpha_%7Bj%7D%29%5E%7B2%7D%2B%5Clambda%5Csum_%7Bj%3D1%7D%5E%7Bp%7D%7C%5Calpha_%7Bj%7D%7C%5Cright%5C%7D%24%24%0D%0A) 
+![](http://latex.codecogs.com/gif.latex?%24%24%5Chat%7B%5Calpha%7D%5E%7Blasso%7D%3D%5Ctext%7Bargmin%7D_%7B%5Calpha%7D%5Cleft%5C%7B%5Csum_%7Bi%3D1%7D%5E%7BN%7D%28y_%7Bi%7D-%5Calpha_%7B0%7D-%5Csum_%7Bj%3D1%7D%5E%7Bp%7Dx_%7Bij%7D%5Calpha_%7Bj%7D%29%5E%7B2%7D%2B%5Clambda%5Csum_%7Bj%3D1%7D%5E%7Bp%7D%7C%5Calpha_%7Bj%7D%7C%5Cright%5C%7D%24%24) 
 
 <br />
 
