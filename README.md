@@ -83,3 +83,7 @@
   - [Sieci neuronowe w H2O - dokumentacja z przykładami w R](ListyZadan/DeepLearningBooklet.pdf)
   - [Przykład zastosowania modelu NN per sprawa z błędem per portfel](ListyZadan/10_ListaNN.R)
   - [Rozwiązania](ListyZadan/10_ListaRozwiązania.R)
+
+ ## Laboratorium 11
+ 
+  - [Lista](ListyZadan/11_ListaGLM.md)
