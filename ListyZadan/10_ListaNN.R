@@ -211,7 +211,7 @@ valP <- as.h2o(CasesTstP)
 
 # hiperparametry
 
-hidden_opt <- list(c(16,10), c(16)) 
+hidden_opt <- list(c(10,10), c(10)) 
 l1_opt <- c(1e-4,1e-3) 
 epochs_opt <- c(5,10,30,100)
 input_dropout_ratio_opt = c(0.1, 0.2, 0.3, 0.4)
