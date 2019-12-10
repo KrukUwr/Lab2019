@@ -21,18 +21,18 @@ Przygotuj dane do budowy modelu, spełniając następujące warunki:
 
 * Wskaż zmiennę skorelowane ze sobą i zapisz macierz korelacji.
 
-## Zadanie 2. 
+## Zadanie 2
 
 Sprawdź siłę predykcyjną wszystkich cech za pomocą współczynnika IV (Information Value).
 
-## Zadanie 3.
+## Zadanie 3
 
 Przekoduj zmienne na WoE.
 
-## Zadanie 4.
+## Zadanie 4
 
 Zbuduj kilka wersji modeli metodą regresji logistycznej (np. zmieniając predyktory, uwględniając wagi).
 
-## Zadanie 5.
+## Zadanie 5
 
 Porównaj powstałe modele za pomocą m.in. współczynnika Gini lub AUC, macierzy klasyfikacji (dla wybranego punktu *cut-off*) i wykresu separacji dobrych i złych klientów.
