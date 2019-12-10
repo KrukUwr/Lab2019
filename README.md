@@ -80,9 +80,9 @@
  ## Laboratorium 10
  
   - [Lista](ListyZadan/10_ListaDoborCech.md)
+  - [Rozwiązania](ListyZadan/10_ListaRozwiązania.R)
   - [Sieci neuronowe w H2O - dokumentacja z przykładami w R](ListyZadan/DeepLearningBooklet.pdf)
   - [Przykład zastosowania modelu NN per sprawa z błędem per portfel](ListyZadan/10_ListaNN.R)
-  - [Rozwiązania](ListyZadan/10_ListaRozwiązania.R)
 
  ## Laboratorium 11
  
