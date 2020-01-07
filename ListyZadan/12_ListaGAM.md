@@ -22,7 +22,7 @@ Zbuduj na próbie uczącej oraz przetestuj na próbie testowej uogólniony model
   2. Przełożenie `SR12M` w przedziałach scorów uzyskanych w modelu z binarną cechą objaśnianą, określającą dobroć klienta (wybierz cechę objaśnianą i funkcję wiążącą oraz zapisz postać modelu).
 
 * Modele estymuj per sprawa zaś odchylenie oblicz per portfel (jest to realizacja podejścia: model per sprawa &rarr; struktura porfeli na zbiorze Val/Tst &rarr; odchylenie per portfel).
-* W każdym z modeli wytypuj cechy -- kandydatki do nieparametrycznej reprezentacji.
+* W każdym z modeli wytypuj cechy &ndash kandydatki do nieparametrycznej reprezentacji.
 * Wykonaj automatyczny dobór cech za pomocą funkcji `step.gam`  oraz wybierz najlepszą Twoim zdaniem specyfikację modelu.
 * Oceń statystyczną istotność modeli.
 * Dla każdego modelu przeanalizuj wykresy cząstkowej predykcji (*partial prediction plots*) – które cechy najsilniej wpływają na dobroć klientów?
