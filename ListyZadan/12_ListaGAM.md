@@ -8,6 +8,7 @@
 
 ```
 library(gam)
+library(mgcv)
 ```
 
 ## Zadanie 1
