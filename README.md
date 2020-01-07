@@ -88,3 +88,7 @@
  
   - [Lista](ListyZadan/11_ListaGLM.md)
   - [Rozwiązania](ListyZadan/11_ListaRozwiazania.R)
+  
+ ## Laboratorium 12
+ 
+  - [Lista](ListyZadan/12_ListaGAM.md)
