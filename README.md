@@ -93,3 +93,8 @@
  
   - [Lista](ListyZadan/12_ListaGAM.md)
   - [Rozwiązania](ListyZadan/12_ListaRozwiazania.R)
+  
+ ## Laboratorium 13
+ 
+  - [Lista](ListyZadan/13_ListaPorownywanie.md)
+  - konsultacje/omówienie tematów projektów
