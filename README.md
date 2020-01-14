@@ -97,4 +97,4 @@
  ## Laboratorium 13
  
   - [Lista](ListyZadan/13_ListaPorownywanie.md)
-  - konsultacje/omówienie tematów projektów
+  - konsultacje/omówienie tematów projektów oraz prezentacji
