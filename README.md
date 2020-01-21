@@ -99,3 +99,4 @@
   - [Lista](ListyZadan/13_ListaPorownywanie.md)
   - [Rozwiązania](ListyZadan/13_ListaRozwiazania.R)
   - konsultacje/omówienie tematów projektów oraz prezentacji
+  - do zespołu prognozującego NPV - nominalne NPV portfela jest zależne od liczby obserwacji - chyba najlepiej prognozować NPV podzielone przez TOA :)
