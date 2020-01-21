@@ -101,3 +101,11 @@
   - [Prezentacja](ListyZadan/13_PrezentacjaPorownywanie.pdf)
   - konsultacje/omówienie tematów projektów oraz prezentacji
   - do zespołu prognozującego NPV - nominalne NPV portfela jest zależne od liczby obserwacji - chyba najlepiej prognozować NPV podzielone przez TOA :)
+  
+ ## Laboratorium 14
+ 
+  - konsultacje/omówienie tematów projektów oraz prezentacji
+  
+ ## Laboratorium 15
+ 
+  - prezentacje
