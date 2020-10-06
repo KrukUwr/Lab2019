@@ -17,12 +17,11 @@
 
 #### Harmonogram
 
->- Do **XX.XX.XX** prowadzący zaproponują tematy projektów,
->- **XX.XX.XX** Laboratoria- konsultacje, omównienie zaproponowanych tematów.
->- Do **XX.XX.XX** grupy projektowe mogą zgłaszać własne propozycje tematów (wraz z tematem 'rezerwowym' z listy prowadzących na wypadek braku akcpetacji tematu zaproponowanego).
->- Do **XX.XX.XX** prowadzący podejmą decyzję o akcpeptacji zaproponowanych tematów.
->- **XX.XX.XX** Laboratoria- konsultacje.
->- **XX.XX.XX, XX.XX.XX** - Prezentacje projektów.
+>- **12.11.20** Laboratoria - konsultacje, omównienie zaproponowanych tematów.
+>- Do **26.11.20** grupy projektowe mogą zgłaszać własne propozycje tematów (wraz z tematem 'rezerwowym' z listy prowadzących na wypadek braku akcpetacji tematu zaproponowanego).
+>- Do **03.12.20** prowadzący podejmą decyzję o akcpeptacji zaproponowanych tematów.
+>- **01.20** Laboratoria - konsultacje.
+>- **28.01.20, 03.02.20** - Prezentacje projektów.
 
 <br>
 
