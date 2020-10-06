@@ -31,7 +31,7 @@
 
 ## Laboratorium 1
 
-- [Lista]()
+- [Lista](ListyZadan/01_ListaZadania.md)
 - [Rozwiązania]()
  
 ## Laboratorium 2
