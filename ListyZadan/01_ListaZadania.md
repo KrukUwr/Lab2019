@@ -73,7 +73,7 @@ Stwórz tabele `toa_components` poprzez wybranie kolumn `Id`, `Principal`, `Othe
 ### Zadanie 5
 
 Połącz tabele `events` (kod poniżej) oraz `all_cases` przy użyciu kolumn `Id`. 
-Zwróć uwagę, że w tabeli `events` jedno id może wystąpić więcej niż raz.
+Zwróć uwagę, że w tabeli `events` jedno id może wystąpić więcej niż raz, dlatego w pierwszej kolejności tabelę należy przekształcić w taki sposób, żeby w kolumnie Id znajdowały się wartości unikatowe.
 
 Tak wygenerowaną tabelę zapiszcie do pliku csv i RData.
 
