@@ -36,6 +36,7 @@
  
 ## Laboratorium 2
  
+ - [Lista](ListyZadan/02_ListaEksploracja.md)
  
 ## Laboratorium 3
 
