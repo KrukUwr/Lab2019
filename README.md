@@ -32,7 +32,7 @@
 ## Laboratorium 1
 
 - [Lista](ListyZadan/01_ListaZadania.md)
-- [Rozwiązania]()
+- [Rozwiązania](ListyZadan/01_ListaRozwiazania.R)
  
 ## Laboratorium 2
  
