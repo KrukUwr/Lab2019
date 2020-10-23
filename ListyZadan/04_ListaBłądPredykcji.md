@@ -6,7 +6,7 @@
 
 Przygotuj dane aplikacyjne:
 
-* Zakoduj w wybrany sposób cechy jaościowe `Product` oraz `Gender`.
+* Zakoduj w wybrany sposób cechy jakościowe `Product` oraz `Gender`.
 * Uzupełnij braki danych tych zmiennych aplikacyjnych, dla których jest to możliwe i sensowne.
 * Usuń obserwacje odstające cech `LoanAmount`, `DPD` oraz `LastPaymentAmount`.
 * Zestandaryzuj cechy aplikacyjne.
