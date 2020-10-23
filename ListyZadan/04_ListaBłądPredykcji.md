@@ -4,7 +4,13 @@
 
 ## Zadanie 1
 
-Przygotuj dane aplikacyjne jak na Liście 3.
+Przygotuj dane aplikacyjne:
+
+* Zakoduj w wybrany sposób cechy jaościowe `Product` oraz `Gender`.
+* Uzupełnij braki danych tych zmiennych aplikacyjnych, dla których jest to możliwe i sensowne.
+* Usuń obserwacje odstające cech `LoanAmount`, `DPD` oraz `LastPaymentAmount`.
+* Zestandaryzuj cechy aplikacyjne.
+* Do zbioru cech aplikacyjnych dodaj zmienną wydzielającą klientów, którzy dokonali jakiejkolwiek wpłaty w pierwszych 6 miesiącach obsługi ("klienci dobrzy"). Jaki jest udział dobrych klientów w zbiorze?
 
 ## Zadanie 2
 
