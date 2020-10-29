@@ -23,12 +23,14 @@ Wyniki klasyfikacji przedstaw na wykresie.
 
 Następnie wykonaj predykcję na zbiorze testowym, wykorzystując wcześniejsze założenia dotyczące zbioru uczącego. Wyniki również przedstaw za pomocą tabeli kontyngencji. Do wykonania predykcji użyj poniższą funkcję:
 
+```
 predict.kmeans <- function(model, newdata) {
   y <- apply(newdata, 1, function(r) {
     which.min(colSums((t(model$centers) - r)^2))
   })
   return(y)
 }
+```
 
 Przetestuj różne liczby skupień. Jaka ich liczba daje najlepsze wyniki klasyfikacji?
 
