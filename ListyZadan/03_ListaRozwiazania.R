@@ -153,8 +153,6 @@ table(Actual=train$Client, Predicted=train$Prediction)
 prop.table(table(Actual=train$Client, Predicted=train$Prediction), margin = 1)
 
 
-# CasesStd[, colClass:=rainbow(k)[kCluster$cluster]]
-
 plot(train[Client == "G", ][["TOA"]],
   train[Client == "G", ][["M_LastPaymentToImportDate"]],
   pch=1, col=train[Client == "G", ]$Cluster, cex=0.7,
@@ -358,8 +356,5 @@ prop.table(table(Actual=test$Client, Predicted=knn_test), margin=1)
 # kohonen
 table(Actual=som_test_forecast$ClientTrue, Predicted=som_test_forecast$ClassPrediction)
 prop.table(table(Actual=som_test_forecast$ClientTrue, Predicted=som_test_forecast$ClassPrediction), margin = 1)
-
-
-
 
 
