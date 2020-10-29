@@ -42,6 +42,7 @@
 ## Laboratorium 3
 
 - [Lista](ListyZadan/03_ListaAnalizaSkupien.md)
+- [Rozwiązania](ListyZadan/03_ListaRozwiazania.R)
  
 ## Laboratorium 4
 
