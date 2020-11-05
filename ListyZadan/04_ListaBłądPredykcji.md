@@ -10,7 +10,7 @@ Przygotuj dane aplikacyjne:
 * Uzupełnij braki danych tych zmiennych aplikacyjnych, dla których jest to możliwe i sensowne.
 * Usuń obserwacje odstające cech `LoanAmount`, `DPD` oraz `LastPaymentAmount`.
 * Zestandaryzuj cechy aplikacyjne.
-* Do zbioru cech aplikacyjnych dodaj zmienną wydzielającą klientów, którzy dokonali jakiejkolwiek wpłaty w pierwszych 6 miesiącach obsługi ("klienci dobrzy"). Jaki jest udział dobrych klientów w zbiorze?
+* Do zbioru cech aplikacyjnych dodaj zmienną określającą skuteczność całkowitą w pierwszych 6-ciu miesiącach obsługi (`SR6M`). Jaka jest średnia `SR6M` w zbiorze danych?
 
 ## Zadanie 2
 
