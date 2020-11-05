@@ -1,6 +1,6 @@
 
 
-load("KrukUWr2019.RData")
+load("KrukUWr2020.RData")
 library(data.table)
 
 set.seed(1)
@@ -193,7 +193,7 @@ for (k in seq(from=1, to=29, by=2)) {
 
 
 
-######################################################## Zadanie 3 Zbiór trn/val/tst
+######################################################## Zadanie 3 ZbiÃ³r trn/val/tst
 
 n <- CasesStd[, .N]
 K <- 29
@@ -353,7 +353,7 @@ generalization_error <- sum(Error)/(b)
 #2 - validation
 #3 - test
 
-AvgTrain <- mean(CasesStd[Set == 1,SR6M])
+AvgTrain <- mean(CasesStd[Set < 3,SR6M])
 error <- sum((AvgTrain-CasesStd[Set == 3,SR6M])^2)/dim(CasesStd[Set == 3,])[1]
 
 
