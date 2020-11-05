@@ -47,6 +47,7 @@
 ## Laboratorium 4
 
 - [Lista](ListyZadan/04_ListaBłądPredykcji.md)
+- [Rozwiązania](ListyZadan/04_ListaRozwiazania.R)
  
 ## Laboratorium 5
 
