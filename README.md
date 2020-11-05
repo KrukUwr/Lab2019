@@ -48,7 +48,7 @@
 
 - [Lista](ListyZadan/04_ListaBłądPredykcji.md)
 - [Rozwiązania](ListyZadan/04_ListaRozwiazania.R)
-- [Prezentacja](ListyZadan/Laboratorium4 - błąd predykcji.pdf)
+- [Prezentacja](ListyZadan/Laboratorium4.pdf)
  
 ## Laboratorium 5
 
