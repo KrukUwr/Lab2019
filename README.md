@@ -48,9 +48,11 @@
 
 - [Lista](ListyZadan/04_ListaBłądPredykcji.md)
 - [Rozwiązania](ListyZadan/04_ListaRozwiazania.R)
+- [Błąd prognozy - prezentacja](ListyZadan/Laboratorium4 - błąd predykcji.pdf)
  
 ## Laboratorium 5
 
+- omówienie tematów projektów/konsultacje
  
 ## Laboratorium 6
  
