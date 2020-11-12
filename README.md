@@ -55,8 +55,9 @@
 - omówienie tematów projektów/konsultacje
  
 ## Laboratorium 6
- 
- 
+
+- [Lista](ListyZadan/06_ListaDrzewaLasy.md)
+
 ##  Laboratorium 7
 
  
