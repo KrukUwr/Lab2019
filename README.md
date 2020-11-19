@@ -57,7 +57,7 @@
 ## Laboratorium 6
 
 - [Lista](ListyZadan/06_ListaDrzewaLasy.md)
-- [Rozwiązania](ListyZadan/06_ListaRozwiazania.R)
+- [Rozwiązania](ListyZadan/06_RozwiazaniaZadan.R)
 
 ##  Laboratorium 7
 
