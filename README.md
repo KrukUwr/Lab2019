@@ -61,6 +61,7 @@
 
 ##  Laboratorium 7
 
+- [Lista](ListyZadan/07_ListaOutliersAndNAs.md)
  
 ## Laboratorium 8
  
