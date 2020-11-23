@@ -64,7 +64,8 @@
 - [Lista](ListyZadan/07_ListaOutliersAndNAs.md)
  
 ## Laboratorium 8
- 
+
+- [Lista](ListyZadan/08_ListaPCA.md)
 
 ## Laboratorium 9
 
