@@ -49,7 +49,7 @@ Korzystając ze zbioru testowego dokonaj predykcji (wyniki zapisz w obiekcie `m1
 
 ## Zadanie 8
 
-Dokonaj oceny jakości predykcji za pomocą znanych Ci miar .
+Dokonaj oceny jakości predykcji za pomocą znanych Ci miar.
 
 
 
