@@ -37,7 +37,7 @@ Zbadaj rozkład`cases_loanamount_wonas$LoanAmount`. Jeżeli jest taka potrzeba z
 
 ## Zadanie 5 
 
-Zbuduj model regresji  liniowej `m1` gdzie zmienną modelowaną jest `LoanAmount` a zmiennymi objaśniającymi : `TOA`, `Principal`, `Interest`, `Other`, `GDPPerCapita`, `MeanSalry`, `D_DPD`, `Age`, `Gender`
+Zbuduj model regresji  liniowej `m1` gdzie zmienną modelowaną jest `LoanAmount` a zmiennymi objaśniającymi : `TOA`, `Principal`, `Interest`, `Other`, `GDPPerCapita`, `MeanSalry`, `D_DPD`, `Age`, `Gender`.
 
 ## Zadanie 6
 
