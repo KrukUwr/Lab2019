@@ -12,8 +12,8 @@ Zadaniem jest wybór optymalnego zbioru cech objaśniających w liniowym modelu 
 
 * Podziel zbiór danych na zbiory uczący oraz walidacyjny.
 * Jaka jest liczba wszystkich możliwych kombinacji cech objaśniających, jeżeli do dyspozycji jest *p* cech?
-* Stwórz ramkę danych zawierającą wszystkie możliwe kombinacje cech objaśniająych (np. `expand.grid`).
-* W pętli oszacuj modele na danych uczących i oblicz `RSS` na danych walidacyjncyh dla kombinacji cech.
+* Stwórz ramkę danych zawierającą wszystkie możliwe kombinacje cech objaśniających (np. `expand.grid`).
+* W pętli oszacuj modele na danych uczących i oblicz `RSS` na danych walidacyjnych dla kombinacji cech.
 * Przedstaw wyniki na wykresie (oś odciętych to liczba cech objaśniających, zaś oś rzędnych to `RSS`).
 *	Jaka jest optymalna kombinacja cech?
 *	Dokonaj interpretacji oszacowanych parametrów wybranej kombinacji.
