@@ -22,7 +22,7 @@ Zadaniem jest wybór optymalnego zbioru cech objaśniających w liniowym modelu 
 
 Jaka jest kombinacja cech objaśniających wskazywana przez *forward* oraz *backward stepwise selection*? Jak wyglądają ścieżki tych dwóch podejść na wykresie z zadania 2?
 
-## Zadania 4-5 opcjonalne - w ich miejsce zajmiemy się modelowaniem z wykorzystaniem sieci nieuronowych
+## Zadania 4-5 opcjonalne (w ich miejsce zajmiemy się modelowaniem z wykorzystaniem sieci neuronowych)
 
 ## Zadanie 4
 
