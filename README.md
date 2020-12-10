@@ -73,6 +73,8 @@
 ## Laboratorium 9
 
 - [Lista](ListyZadan/09_ListaRegresjaLiniowa.md)
+- [Rozwiązania](ListyZadan/09_ListaRozwiazania.R)
+- [Prezentacja](ListyZadan/09_PrezentacjaRegresja.pdf)
  
  ## Laboratorium 10
  
