@@ -78,6 +78,7 @@
  
  ## Laboratorium 10
  
+- [Lista](ListyZadan/10_ListaDoborCech.md)
 
  ## Laboratorium 11
  
