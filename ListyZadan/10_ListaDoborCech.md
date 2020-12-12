@@ -8,7 +8,7 @@ Przygotuj dane aplikacyjne do analizy i wybierz zbiór cech - kandydatek do mode
 
 ## Zadanie 2
 
-Zadaniem jest wybór optymalnego zbioru cech objaśniających w liniowym modelu regresji modelującym `SR12M`. W tym celu stwórz wykres obrazujący wszystkie możliwe kombinacje wybranych cech objaśniających oraz `RSS` (residual sum of squares, patrz poprzednie laboratorium) modelu obliczony na podstawie próby walidacyjnej:
+Zadaniem jest wybór optymalnego zbioru cech objaśniających w liniowym modelu regresji modelującym `SR12M`. W tym celu stwórz wykres obrazujący wszystkie możliwe kombinacje wybranych cech objaśniających oraz `RSS` modelu (residual sum of squares /patrz poprzednie laboratorium/) obliczony na podstawie próby walidacyjnej:
 
 * Podziel zbiór danych na zbiory uczący oraz walidacyjny.
 * Jaka jest liczba wszystkich możliwych kombinacji cech objaśniających, jeżeli do dyspozycji jest *p* cech?
