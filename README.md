@@ -84,7 +84,8 @@
 - [DeepLearningBooklet](ListyZadan/DeepLearningBooklet.pdf)
 
  ## Laboratorium 11
- 
+
+- [Lista](ListyZadan/11_ListaGLM.md)
   
  ## Laboratorium 12
  
