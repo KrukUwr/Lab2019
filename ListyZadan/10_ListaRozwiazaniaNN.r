@@ -127,6 +127,7 @@ library(corrplot)
 corrplot(cor(Cases[,.SD,.SDcols = Variables]), order = "hclust", tl.col='black', tl.cex=.75)
 
 
+                     
 # Włączenie H2O - prosto z dokumentacji modułu DeepLearning H2O
 
 # The following two commands remove any previously installed H2O packages for R.
@@ -217,9 +218,12 @@ scatter3d(x = CasesPCA[,PC1], y = CasesPCA[,PC2], z = CasesPCA[,PC3], groups = a
 
 
 # Cechy objaśniana i objaśniające na potrzeby NN
+                     
 y <- 'SR12M'
 x <- Variables
 
+                     
+                     
 # Wczytanie zbiorów jako h2o
 
 train <- as.h2o(CasesTrn) 
