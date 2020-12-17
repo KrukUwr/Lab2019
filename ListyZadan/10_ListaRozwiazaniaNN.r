@@ -6,7 +6,7 @@ load("KrukUWr2020.RData")
 library(data.table)
 
 set.seed(1)
-######################################################## Zadanie 1
+
 
 summary(cases)
 summary(events)
