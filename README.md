@@ -79,6 +79,8 @@
  ## Laboratorium 10
  
 - [Lista](ListyZadan/10_ListaDoborCech.md)
+- [Rozwiązania](ListyZadan/10_ListaRozwiazania.r)
+- [Rozwiązania - NNetworks - model per case i agregacja na portfele](ListyZadan/10_ListaRozwiazaniaNN.r)
 - [DeepLearningBooklet](ListyZadan/DeepLearningBooklet.pdf)
 
  ## Laboratorium 11
