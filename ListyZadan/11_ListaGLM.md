@@ -19,7 +19,7 @@ Przygotuj dane do budowy modelu, spełniając następujące warunki:
 
 * Imputuj braki danych tam gdzie widzisz tego sens.
 
-* Wskaż zmiennę skorelowane ze sobą i zapisz macierz korelacji.
+* Wskaż zmienne skorelowane ze sobą i zapisz macierz korelacji.
 
 ## Zadanie 2
 
