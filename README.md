@@ -80,7 +80,7 @@
  
 - [Lista](ListyZadan/10_ListaDoborCech.md)
 - [Rozwiązania](ListyZadan/10_ListaRozwiazania.r)
-- [Neural Networks - model per sprawa i agregacja na portfele](ListyZadan/10_ListaRozwiazaniaNN.r)
+- [Sieci neuronowe - model per sprawa i agregacja na portfele](ListyZadan/10_ListaRozwiazaniaNN.r)
 - [DeepLearningBooklet](ListyZadan/DeepLearningBooklet.pdf)
 
  ## Laboratorium 11
