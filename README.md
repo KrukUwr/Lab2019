@@ -93,6 +93,7 @@
   
  ## Laboratorium 13
  
+- [Lista](ListyZadan/13_ListaPorownywanie.md)
 
  ## Laboratorium 14
  
