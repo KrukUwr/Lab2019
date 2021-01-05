@@ -89,6 +89,7 @@
   
  ## Laboratorium 12
  
+- [Lista](ListyZadan/12_ListaGAM.md)
   
  ## Laboratorium 13
  
