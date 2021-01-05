@@ -19,7 +19,7 @@
 
 >- **12.11.20** Laboratoria - konsultacje, omównienie zaproponowanych tematów.
 >- Do **26.11.20** grupy projektowe mogą zgłaszać własne propozycje tematów (wraz z tematem 'rezerwowym' z listy prowadzących na wypadek braku akcpetacji tematu zaproponowanego).
->- Do **03.12.20** prowadzący podejmą decyzję o akcpeptacji zaproponowanych tematów.
+>- Do **03.12.20** prowadzący podejmą decyzję o akceptacji zaproponowanych tematów.
 >- **Styczeń 2020** Laboratoria - konsultacje.
 >- **28.01.20, 03.02.20** - Prezentacje projektów.
 
