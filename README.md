@@ -86,6 +86,7 @@
  ## Laboratorium 11
 
 - [Lista](ListyZadan/11_ListaGLM.md)
+- [Rozwiązania](ListyZadan/11_ListaRozwiazania.r)
   
  ## Laboratorium 12
  
