@@ -99,7 +99,8 @@
 
  ## Laboratorium 14
  
-  
+ - prezentacje projektów
+ 
  ## Laboratorium 15
  
-
+- prezentacje projektów
