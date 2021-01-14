@@ -91,6 +91,7 @@
  ## Laboratorium 12
  
 - [Lista](ListyZadan/12_ListaGAM.md)
+- [Rozwiązania](ListyZadan/12_ListaRozwiazania.r)
   
  ## Laboratorium 13
  
