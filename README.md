@@ -100,10 +100,10 @@
 - [Prezentacja](ListyZadan/13_PrezentacjaPorownywanie.pdf)
 - UWAGA - na wykładzie 27 stycznia odbędą się konsultacje projektowe
 
- ## Laboratorium 14 28.01.21
+ ## Laboratorium 14  28.01.21
  
  - prezentacje projektów
  
- ## Laboratorium 15 (za wykład) 03.02.21
+ ## Laboratorium 15  (za wykład) 03.02.21
  
 - prezentacje projektów
