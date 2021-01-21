@@ -97,7 +97,7 @@
  
 - [Lista](ListyZadan/13_ListaPorownywanie.md)
 - [Rozwiązania](ListyZadan/13_ListaRozwiazania.R)
-- konsultacje
+- UWAGA - na wykładzie 27 stycznia odbędą się konsultacje projektowe
 
  ## Laboratorium 14
  
