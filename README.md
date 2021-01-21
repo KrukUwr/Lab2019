@@ -96,6 +96,7 @@
  ## Laboratorium 13
  
 - [Lista](ListyZadan/13_ListaPorownywanie.md)
+- [Rozwiązania](ListyZadan/13_ListaRozwiazania.R)
 - konsultacje
 
  ## Laboratorium 14
